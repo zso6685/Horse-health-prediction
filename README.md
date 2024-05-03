@@ -9,11 +9,11 @@ My model predicts that the age of the horse does predict its health outcome.
 My challenge was having to go back and forth between the two files, "test and train"
 
 # Summary of work done
-Data types
-Handling of outliers
-Dropped duplicate
-Removed missing values
-Data visualization
+*Data types
+*Handling of outliers
+*Dropped duplicate
+*Removed missing values
+*Data visualization
 
 # Data Visualization
 Through ploting data I could see the trend of the older horses having the need of surgery thus the older the horse, the poor the health outcome.
