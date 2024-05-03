@@ -1,13 +1,13 @@
 # Horse-health-prediction
-#Project Title
+# Project Title
 With the various medical indicators predict the health outcomes of horses.
 
-#Overview
+# Overview
 I went over the training train and test csv files, sample_submission file had no need to be used. I first downloaded and uploaded the files, looked at the data types, looked for missing values and duplicates, dropped the duplicates and removed the missing values.
 My model predicts that the age of the horse does predict its health outcome.
 My challenge was having to go back and forth between the two files, "test and train"
 
-#Summary of work done
+# Summary of work done
 Data types
 Handling of outliers
 Dropped duplicate
@@ -17,11 +17,11 @@ Data visualization
 # Data Visualization
 Through ploting data I could see the trend of the older horses having the need of surgery thus the older the horse, the poor the health outcome.
 
-#Problem function
+# Problem function
 
-#Training
+# Training
 
-#Conclusion
+# Conclusion
 
-#Future work
+# Future work
 With more practice hopefully I get to do more projects from any source.
