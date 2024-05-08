@@ -43,7 +43,11 @@ The correlation heatmap was used to show the respiratory_rate, the temperature e
 # Problem function
 Working through to see the outcome of horse health
 # Training
-Had struggles training kept running into errors
+
+![image](https://github.com/zso6685/Horse-health-prediction/assets/123700251/fe6ef6ab-c938-4552-a914-52043fa33e3d)
+
+Classification report from splitiing the data 80% training and 20% test.
+
 # Conclusion
 I could tell from the distribution that of the data that the older the horse and the mucousal membrane the more likely to live or die
 # Future work
