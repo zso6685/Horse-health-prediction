@@ -48,8 +48,14 @@ Working through to see the outcome of horse health
 
 Classification report from splitiing the data 80% training and 20% test.
 
+
+# performance comparison
+
+![image](https://github.com/zso6685/Horse-health-prediction/assets/123700251/c5956d80-8be2-47a6-a07d-09dd837c3b57)
+
+I encountered a problem with not outputting the ROC curve correctly, I would assume is because of the data I chose to work with.
+
 # Conclusion
 I could tell from the distribution that of the data that the older the horse and the mucousal membrane the more likely to live or die
 # Future work
-With more practice hopefully I get to do more projects from any source.
-Practice more on outputting using different metrics , sklearn since I encounter a lot of trouble there
+Work with more datasets practice deep learning and be able to test and train data sets and use different models as well. 
