@@ -26,6 +26,20 @@ I had a chance to do a pair plot on certain columns since I kept running into a 
 # Data Visualization
 Through ploting data I could see the trend of the older horses having the need of surgery thus the older the horse, the poor the health outcome.
 
+
+![image](https://github.com/zso6685/Horse-health-prediction/assets/123700251/06f7d5b7-b769-43f8-bc9b-ef9f3111ccc2)
+
+
+
+
+The correlation heatmap was used to show the respiratory_rate, the temperature extremities and the pulse as well.
+
+
+
+![image](https://github.com/zso6685/Horse-health-prediction/assets/123700251/6c2d5ada-5757-43ad-8c73-d7b8e528608f)
+
+
+
 # Problem function
 Working through to see the outcome of horse health
 # Training
