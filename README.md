@@ -15,10 +15,12 @@ My challenge was having to go back and forth between the two files, "test and tr
 
 
 # Summary of work done
-**Data types
-**Handling of outliers
-**Dropped duplicate
-**Removed missing values
+I was able to look into the data , mostly focussed on the train_csv file, I was able to do a clean up, where I dropped duplicates and removed missing values.
+I had a chance to do a pair plot on certain columns since I kept running into a pair plot with the titles jumbled up if i used the whole data set and it did not look neat. Thus my choice of using only certain columns.
+
+
+![image](https://github.com/zso6685/Horse-health-prediction/assets/123700251/1197ce30-230c-4e40-b5b8-2af53e7b98ff)
+
 
 
 # Data Visualization
